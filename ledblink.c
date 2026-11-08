@@ -1,7 +1,3 @@
-//
-// https://www.avrfreaks.net/forum/delaymst-not-permit
-#define __DELAY_BACKWARD_COMPATIBLE__
-
 #include <avr/io.h>
 #include <util/delay.h>
 
